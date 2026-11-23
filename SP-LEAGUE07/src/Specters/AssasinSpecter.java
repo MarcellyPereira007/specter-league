@@ -12,5 +12,4 @@ public class AssasinSpecter extends SpecterIA {
     public void executarTurno() {
         System.out.println("Assassin entra em stealth e explode o combo!");
     }
-    
 }
