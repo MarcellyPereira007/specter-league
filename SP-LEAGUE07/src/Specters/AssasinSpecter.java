@@ -1,4 +1,7 @@
 package Specters;
 
-public class AssasinSpecter {
+import models.SpecterIA;
+
+public class AssasinSpecter extends SpecterIA {
+    
 }

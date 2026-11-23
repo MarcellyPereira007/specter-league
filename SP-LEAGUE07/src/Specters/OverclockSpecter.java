@@ -1,4 +1,6 @@
 package Specters;
 
-public class OverclockSpecter {
+import models.SpecterIA;
+
+public class OverclockSpecter extends SpecterIA {
 }

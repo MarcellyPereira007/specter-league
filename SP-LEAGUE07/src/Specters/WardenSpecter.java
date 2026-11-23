@@ -1,4 +1,6 @@
 package Specters;
 
-public class WardenSpecter {
+import models.SpecterIA;
+
+public class WardenSpecter extends SpecterIA {
 }
